@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UR0Z2xdisD86ltfsn5OqqMZBCsBzJgZD258LndklloE=",
+  "Source": "build-validation-github-workflow",
+  "BasePath": "_content/build-validation-github-workflow",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
